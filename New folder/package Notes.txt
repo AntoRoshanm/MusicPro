@@ -1,0 +1,52 @@
+npx create-expo-app musicapp  #install react-native 
+
+npm install --global expo-cli  #install expo-client
+
+npm install @react-navigation/native @react-navigation/stack  #install react navigation
+
+npm install react-native-vector-icons
+
+npm install react-native-vector-icons/FontAwesome
+
+npm install @react-navigation/bottom-tabs
+
+npm install @react-navigation/native     
+
+npm install react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/view
+
+npm install @react-navigation/stack
+
+npm install react-native-image-picker
+
+npm i firebase
+
+npm install @react-navigation/native
+
+npm install react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+npm install react-native-image-picker
+
+npm i react-native-slider
+
+npm install react-native-vector-icons --save
+
+npm install --save react-native-vector-icons
+
+npm install @react-native-community/slider --save
+
+npm install --save react-native-track-player
+
+
+
+step 1: npm  instal -g eas-cli
+
+step 2: eas build -p android
+
+step 3: https://docs.expo.dev/build-reference/apk/
+
+
+step 1:eas build --platform ios
+
+step 2:eas build --platform ios --profile simulator
+
+b2e5c25c-81d6-4e22-83c1-e0f48745ed5a
